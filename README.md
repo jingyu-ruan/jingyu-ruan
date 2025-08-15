@@ -2,7 +2,7 @@
 
 - 🎓 I'm a Master of Science in Data Science student at **Vanderbilt University**, with a background in Economics from Shanghai University of Finance and Economics.
 - 📊 My passion lies at the intersection of data analysis, machine learning, and finance. 
-- 📈 I have hands-on experience in financial modeling, time series analysis, and building predictive models with tools like 'Python', 'R', and 'SQL'.
+- 📈 I have hands-on experience in financial modeling, time series analysis, and building predictive models with tools like `Python`, `R`, and `SQL`.
 - 💪 When I'm not analyzing data, I'm probably at the gym.
 - 📫 Let's connect! You can find me on [LinkedIn](https://www.linkedin.com/in/jingyu-ruan).
 
