@@ -27,19 +27,20 @@
       <a href="https://github.com/jingyu-ruan">
         <picture>
           <source
-            srcset="https://github-readme-stats-delta-three-65.vercel.app/api/top-langs?username=jingyu-ruan&theme=tokyonight&hide_border=true"
+            srcset="https://github-readme-stats-delta-three-65.vercel.app/api/top-langs?username=jingyu-ruan&layout=compact&theme=tokyonight&hide_border=true"
             media="(prefers-color-scheme: dark)"
           />
           <source
-            srcset="https://github-readme-stats-delta-three-65.vercel.app/api/top-langs?username=jingyu-ruan&theme=default&hide_border=true"
+            srcset="https://github-readme-stats-delta-three-65.vercel.app/api/top-langs?username=jingyu-ruan&layout=compact&theme=default&hide_border=true"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
           />
-          <img src="https://github-readme-stats-delta-three-65.vercel.app/api/top-langs?username=jingyu-ruan" />
+          <img src="https://github-readme-stats-delta-three-65.vercel.app/api/top-langs?username=jingyu-ruan&layout=compact" />
         </picture>
       </a>
     </td>
   </tr>
 </table>
+
 
 
 
