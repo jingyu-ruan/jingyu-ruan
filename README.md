@@ -12,14 +12,14 @@
       <a href="https://github.com/jingyu-ruan">
         <picture>
           <source
-            srcset="https://github-readme-stats-delta-three-65.vercel.app/api?username=jingyu-ruan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile"
+            srcset="https://github-readme-stats-delta-three-65.vercel.app/api?username=jingyu-ruan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile&v=fixed"
             media="(prefers-color-scheme: dark)"
           />
           <source
-            srcset="https://github-readme-stats-delta-three-65.vercel.app/api?username=jingyu-ruan&show_icons=true&theme=default&hide_border=true&rank_icon=percentile"
+            srcset="https://github-readme-stats-delta-three-65.vercel.app/api?username=jingyu-ruan&show_icons=true&theme=default&hide_border=true&rank_icon=percentile&v=fixed"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
           />
-          <img src="https://github-readme-stats-delta-three-65.vercel.app/api?username=jingyu-ruan&show_icons=true&rank_icon=percentile" />
+          <img src="https://github-readme-stats-delta-three-65.vercel.app/api?username=jingyu-ruan&show_icons=true&rank_icon=percentile&v=fixed" />
         </picture>
       </a>
     </td>
